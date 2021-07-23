@@ -712,11 +712,11 @@ footer span a:hover{
 
 @media (max-width: 500px) {
     .home .home-content .text-2{
-        font-size: 30px;
+        font-size: 20px;
         max-width:100px;
     }
     .home .home-content .text-3{
-        font-size: 27px;
+        font-size: 20px;
     }
     .about .about-content .right .text,
     .skills .skills-content .left .text{
