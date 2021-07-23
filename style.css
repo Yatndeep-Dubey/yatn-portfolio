@@ -738,6 +738,11 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
-    
+      .yatn{
+        max-width: 200px;
+        max-height: 400px;
+        bottom: 40px;
+        right: -10px;
+    }
 }
 /* taken 6 to 7 hours */
