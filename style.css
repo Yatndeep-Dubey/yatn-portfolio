@@ -743,10 +743,10 @@ footer span a:hover{
     }
     
     .yatn{
-        max-width: 150px;
-        max-height: 100px;
+        max-width: 180px;
+        max-height: 300px;
         bottom: 40px;
-        right: -15px;
+        right: -12px;
     }
 }
 /* taken 6 to 7 hours */
